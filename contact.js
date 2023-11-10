@@ -1,0 +1,1 @@
+document.getElementById ("demo"). innerHTML="For Further inquiries, Business Deals, Adds placementt or donation contact me via any of these Apps.";
